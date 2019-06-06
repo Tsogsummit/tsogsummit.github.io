@@ -13,9 +13,8 @@ header{
 
 ol{
     float:left;
-    width: 150px;
-    height: auto;
     list-style: none;
+    margin-top: 20px;
 }
 
 ol li{
@@ -27,14 +26,14 @@ ol li a{
     text-decoration: none;
     padding: 5px 20px;
     border: 1px solid transparent;
-    font-family: "Roboto";
+    font-family: "Comfortaa";
     font-size: 25px;
 }
 
 ul{
     float:right;
     list-style: none;
-    margin-top: 0px;
+    margin-top: 20px;
 }
 
 ul li{
@@ -46,7 +45,7 @@ ul li a{
     text-decoration: none;
     padding: 5px 20px;
     border: 1px solid transparent;
-    font-family: "Roboto";
+    font-family: "Comfortaa";
     font-size: 25px;
     transition: 0.6s ease;
 }
