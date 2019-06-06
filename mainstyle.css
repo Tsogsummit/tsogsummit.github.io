@@ -70,10 +70,22 @@ body{
 
 .title h1{
     color: white;
-    font-size: 70px;
+    font-size: 80px;
     text-align: center;
 }
 
+.para{
+    position: absolute;
+    top: 28%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    width: 1200px;
+}
+.para p{
+    color: white;
+    font-size: 30px;
+    text-align: center;
+}
 .button{
     position: absolute;
     top: 25%;
@@ -95,4 +107,23 @@ body{
 .btn:hover{
     background-color: darkorange;
     color: white;
+}
+
+.firstsec{
+    position: absolute;
+    left: 30%;
+    transform: translate(-50%,-50%);
+    width: 1200px;
+}
+
+.firstsec h1{
+    color: white;
+    font-size: 50px;
+    text-align: center;
+}
+
+.firstsec p{
+    color: white;
+    font-size: 30px;
+    text-align: left;
 }
